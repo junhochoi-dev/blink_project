@@ -114,7 +114,7 @@ example 3 : covering eyes
                     <sub><b>Choi Jun Ho</b></sub>
                 </a>
                 <br />
-                <a href="#maintenance-flaxinger" title="Maintenance">🚧</a>
+                <a href="#maintenance-flaxinger" title="Maintenance">GitHub Address</a>
             </td>
             <td align="center">
                 <a href="https://github.com/dayun4444">
@@ -123,7 +123,7 @@ example 3 : covering eyes
                     <sub><b>Lee Da Yun</b></sub>
                 </a>
                 <br />
-                <a href="#maintenance-getCurrentThread" title="Maintenance">🚧</a>
+                <a href="#maintenance-getCurrentThread" title="Maintenance">GitHub Address</a>
             </td>
             <td align="center">
                 <a href="https://github.com/duncan1409">
@@ -132,7 +132,7 @@ example 3 : covering eyes
                     <sub><b>Park Min Hyeong</b></sub>
                 </a>
                 <br />
-                <a href="#maintenance-getCurrentThread" title="Maintenance">🚧</a>
+                <a href="#maintenance-getCurrentThread" title="Maintenance">GitHub Address</a>
             </td>
             <td align="center">
                 <a href="https://github.com/sms291">
@@ -141,7 +141,7 @@ example 3 : covering eyes
                     <sub><b>Shin Hyo Seop</b></sub>
                 </a>
                 <br />
-                <a href="#maintenance-getCurrentThread" title="Maintenance">🚧</a>
+                <a href="#maintenance-getCurrentThread" title="Maintenance">GitHub Address</a>
             </td>
         </tr>
     </table>
